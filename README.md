@@ -1,1 +1,1 @@
-# practica-7mo
+# Práctica GIT - 7mo Arquitectura 🏛️
